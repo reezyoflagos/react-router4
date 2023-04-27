@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react'
 
 const Form = () => {
-    const[firstName, setFirstName] = useState("")
+    const[firstName, setFirstName] = useState("reezy")
   return (
     <div>
       <form class="row g-3 needs-validation" novalidate>
